@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Descriere</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+	</head>
+	<link rel="stylesheet" type="text/css" href="mystyle.css">
+<style>
+body{
+backgroung-image:url("p1.jpg");}
+table {
+  border-collapse: collapse;
+}
+table, th, td {
+  border: 1px solid black;
+  bgcolor:"lightgrey"                               
+}
+</style>
+
+	<body>
+	 <h1 style="background-color:DodgerBlue;">Nume: Czintos</h1>
+
+		<p>	Prenume: Roland David </p>
+		<img src="Czintos.jpg" alt="Poza">
+
+		<p>	Email: czintos.roli@yahoo.com </p>
+
+		<p>	  Text :”Doresc sa studiez si sa aprofundez tainele programarii, a arhitecturilor software, cum functioneaza, de unde au pornit si cum se pot dezvolta acestea.”  </p>
+
+		<p>	Tabel cu disciplinele pe care doresc sa le aprofundez: </p>
+
+		<p>	Programare- Limbaje(anul 1)</p>
+		<p>	<a href=" https://etti.utcluj.ro/files/FiseDisciplina/EaRo/04.pdf ">Link-ul catre fisa disciplinei 1/5</a></p>
+
+		<p>	Programare- Algoritmi(anul 1) </p>
+
+		<p>	<a href="https://etti.utcluj.ro/files/FiseDisciplina/EaRo/11.pdf ">Link-ul catre fisa disciplinei 2/5</a> </p>
+
+
+		<p>	Inginerie Software(anul 3) </p>
+
+		<p>	<a href="https://etti.utcluj.ro/files/FiseDisciplina/EaRo/37.pdf ">Link-ul catre fisa disciplinei 3/5</a> </p>
+
+
+		<p>	Sisteme cu FPGA(anul 4)  </p>
+
+		<p>	<a href="https://etti.utcluj.ro/files/FiseDisciplina/EaRo/4810.pdf ">Link-ul catre fisa disciplinei 4/5</a> </p>
+
+
+		<p>	Microprocesoare(anul 3)  </p>
+
+		<p>	<a href="https://etti.utcluj.ro/files/FiseDisciplina/EaRo/33.pdf ">Link-ul catre fisa disciplinei 5/5</a> </p>
+
+
+ 
+
+ 
+
+				
+				<h2>Lista cu hobby-urile principale:</h2>
+
+<table style="width:50%">
+ 
+  <tr>
+    <td>1.Sportul</td>
+	<td>2.Jocurile video</td>
+	<td>3.Gatitul</td>
+   
+  </tr>
+
+			
+	
+	</body>
+	
+	<p> Ultimul buton pentru revenire la pagina principala! </p>
+		<a href="Pagina Principala Site">Click aici!</a>
+</html>
